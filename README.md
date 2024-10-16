@@ -41,7 +41,7 @@ This project focuses on analyzing customer churn for a European bank. By examini
 ## Findings
 1. **Gender Analysis:** **Female customers** have a higher churn rate (25.07%) than male customers (16.46%). 
 2.. **Geography Analysis:** Germany exhibits the highest churn rate (32.44%), indicating potential dissatisfaction in that region. 
-4. **Tenure Analysis:** Churn is notably high in the first few years, especially for customers with **1 to 3 years** of tenure. The **churn rate** decreases significantly for customers with **5+ years** tenure, suggesting loyalty develops over time. 
+4. **Tenure Analysis:** The highest number of customers exited after 1 year of tenure, followed by 0 years and 2 years. This suggests that customers are more likely to churn within the first few years of their relationship with the bank.
 5. **Number of Products:** Customers with four and only one product have the highest churn rate (100% & 27.7% respectively). 
 6. **Active Member Status:** **Inactive members** are more likely to churn, with a churn rate of **26.1%**, compared to only **14.9%** for active members. 
 7. **Credit Card Usage:** Customers **without a credit card** show a slightly higher churn rate (**22.0%**) than those with a credit card (**18.6%**).   
