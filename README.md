@@ -27,10 +27,10 @@ This project focuses on analyzing customer churn for a European bank. By examini
 3. Propose strategies to improve customer retention.
 
 ## Key SQL Queries
-- **Age Group Analysis:** `age_group_analysis.sql`
-- **Gender Analysis:** `gender_analysis.sql`
-- **Geography Analysis:** `geography_analysis.sql`
-- **Credit Score Analysis:** `credit_score_analysis.sql`
+- **Age Group Analysis**
+- **Gender Analysis**
+- **Geography Analysis**
+- **Credit Score Analysis** 
 - **Tenure analysis**
 - **Credit card analysis**
 - **Bank balance analysis**
