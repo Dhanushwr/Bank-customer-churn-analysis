@@ -26,9 +26,6 @@ This project focuses on analyzing customer churn for a European bank. By examini
 2. Analyze the key factors contributing to churn.
 3. Propose strategies to improve customer retention.
 
-## Repository Structure
-
-
 ## Key SQL Queries
 - **Age Group Analysis:** `age_group_analysis.sql`
 - **Gender Analysis:** `gender_analysis.sql`
@@ -50,14 +47,9 @@ This project focuses on analyzing customer churn for a European bank. By examini
 6. **Credit Card Usage:** Customers **without a credit card** show a slightly higher churn rate (**22.0%**) than those with a credit card (**18.6%**).  
 7. **Salary Analysis:** Customers earning between **0 - 20k** have a churn rate of **20.12%** (198 exited out of 981 total). Churn increases with salary, peaking at the **150k - 200k** range, with **527 exited** customers.**Higher salary ranges** indicate better retention, with the **50k - 100k** range having the lowest churn rate (**20.0%**).
 8. **Balance Analysis:** Customers with a **balance between 0 - 20k** exhibit the highest churn rate (**13.85%**), with **502 exited** out of **3621 total**. Churn rates decrease with higher balances; those with balances above **200k** show the least churn, although the sample size is small.
-9. **Credit Score Analysis:** Customers with **lower credit scores** (below 600) are more prone to churn, with rates exceeding **30%**. High credit score customers (750+) are more likely to stay.
+9. **Credit Score Analysis:** Customers with **Mid credit scores** (around 600) are more prone to churn, with rates exceeding **30%**. High credit score and low credit customers are more likely to stay.
 10. **Findings from Age Analysis:** Customers (41-50) exhibit high churn, ratesnindicating a need for targeted retention strategies across different age groups.
 
-
-## How to Run the Queries
-1. Ensure you have MySQL installed and running.
-2. Import the dataset into your MySQL database.
-3. Run the SQL queries from the `sql_queries` folder to reproduce the analysis.
 
 ## Visualizations
 Dashboard insights are provided in the `dashboards` folder.
