@@ -52,7 +52,7 @@ This project focuses on analyzing customer churn for a European bank. By examini
 
 
 ## Visualizations
-Dashboard insights are provided in the [`dashboards`](https://github.com/Dhanushwr/Bank-customer-churn-analysis/tree/main/Dashboard) folder.
+Dashboards are provided in the [`dashboards`](https://github.com/Dhanushwr/Bank-customer-churn-analysis/tree/main/Dashboard) folder.
 
 ## License
 This project is licensed under Deed - CC0 1.0 Universal License. See [License](https://creativecommons.org/publicdomain/zero/1.0/) for details.
